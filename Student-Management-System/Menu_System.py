@@ -73,7 +73,7 @@ def main():
                 )
                 print(result)
             except ValueError:
-                print("❌ Error: Please enter valid data!")
+                print(" Error: Please enter valid data!")
 
         elif choice == "2":
             # Remove Student
@@ -137,11 +137,11 @@ def main():
 
         elif choice == "8":
             # Exit
-            print("\n🚪 Exiting Student Management System. Goodbye!")
+            print("\n Exiting Student Management System. Goodbye!")
             break
 
         else:
-            print("❌ Invalid choice! Enter a number between 1 and 8.")
+            print(" Invalid choice! Enter a number between 1 and 8.")
 
 
 if __name__ == "__main__":
