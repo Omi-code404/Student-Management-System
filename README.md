@@ -49,6 +49,6 @@ This project is **educational** and intended to demonstrate learning progress ra
 
 RUN........ 
 git clone https://github.com/Omi-code404/Student-Management-System
-cd Student-Management-System
-python Menu_System.py
+##cd Student-Management-System
+##python Menu_System.py
 
