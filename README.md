@@ -45,8 +45,11 @@ This project is **educational** and intended to demonstrate learning progress ra
 
 ---
 📂 [Project Structure](https://github.com/Omi-code404/Student-Management-System/tree/main/Student-Management-System/__pycache__)
+
 ├── [Menu_System.py](https://github.com/Omi-code404/Student-Management-System/blob/main/Student-Management-System/Menu_System.py)
+
 ├── [student.py](https://github.com/Omi-code404/Student-Management-System/blob/main/Student-Management-System/Student.py)
+
 ├── [manager.py](https://github.com/Omi-code404/Student-Management-System/blob/main/Student-Management-System/Student_Manager.py)
 
 ## 🚀 How to Run
