@@ -48,5 +48,7 @@ This project is **educational** and intended to demonstrate learning progress ra
 ## 🚀 How to Run
 
 RUN........ 
-Menu_System.py
+git clone https://github.com/Omi-code404/Student-Management-System
+cd Student-Management-System
+python Menu_System.py
 
