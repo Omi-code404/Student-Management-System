@@ -1,4 +1,4 @@
-# Python OOP Learning basic Project
+# CLI Student Management System built using Python OOP
 
 A **Python learning project** focused on applying **Functions & Scope** and **Basic Object-Oriented Programming (OOP)** concepts through a practical **Student Management System**.
 
