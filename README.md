@@ -44,6 +44,10 @@ To strengthen Python fundamentals by building a structured, interactive program 
 This project is **educational** and intended to demonstrate learning progress rather than production readiness.
 
 ---
+📂 Project Structure
+├── Menu_System.py(
+├── student.py(
+├── manager.py(
 
 ## 🚀 How to Run
 
@@ -51,4 +55,6 @@ RUN........
 git clone https://github.com/Omi-code404/Student-Management-System
 ## cd Student-Management-System
 ## python Menu_System.py
-
+## Contributing
+Beginner friendly contributions welcome!
+Open issues or submit PR.
